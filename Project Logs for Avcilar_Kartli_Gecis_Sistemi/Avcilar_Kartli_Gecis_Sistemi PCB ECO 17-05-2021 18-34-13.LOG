@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetLS1_1 Pin=LS1-1
+Removed Pin From Net: NetName=NetIC4_3 Pin=LS1-2
+Added Component: Designator=LS1(BUZZER 5v)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/elektromekanik-komponentler/ses-urunleri/buzzerlar/YX-YT12075-YT05D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLS1_1 Pin=LS1-1
+Added Pin To Net: NetName=NetIC4_3 Pin=LS1-2
+Added Member To Class: ClassName=Avcilar_Kartli_Gecis_Sistemi Member=Component B1 Push Button Tact
+Added Room: Name=Avcilar_Kartli_Gecis_Sistemi

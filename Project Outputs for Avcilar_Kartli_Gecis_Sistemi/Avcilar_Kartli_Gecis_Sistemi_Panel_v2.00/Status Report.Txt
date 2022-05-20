@@ -1,0 +1,33 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.PcbDoc]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GTO]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GTP]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GTS]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GTL]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GBL]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GBS]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GBP]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GBO]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GM1]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GM2]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GM3]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GM4]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GM5]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GM13]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GM15]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GKO]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GPT]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GPB]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.1]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GML]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GD1]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.GG1]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.EXTREP]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v2.00.REP]
+
+
+Files Generated   : 24
+Documents Printed : 0
+
+Finished Output Generation At 16:23:53 On 27/05/2021

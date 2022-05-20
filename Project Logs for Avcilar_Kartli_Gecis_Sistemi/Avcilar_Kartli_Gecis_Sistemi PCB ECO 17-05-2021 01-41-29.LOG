@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=B1-1
+Removed Pin From Net: NetName=GND Pin=B1-2
+Removed Pin From Net: NetName=Reset Pin=B1-3
+Removed Pin From Net: NetName=Reset Pin=B1-4
+Added Component: Designator=B1(PUSB BUTTON-SMD TACT)
+Add component (AddParameter): Name = "Satýn Alma Linki"; Value = "https://urun.n11.com/diger/mini-pushbutton-switch-smd-P227461537?gclid=Cj0KCQjwkoDmBRCcARIsAG3xzl8Y_-jeD7HocNM6lvuZ_rVp83568XPGtNzlPwXWLph8oCRqo0yh87UaApZYEALw_wcB&gclsrc=aw.ds"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=B1-1
+Added Pin To Net: NetName=Reset Pin=B1-2
+Added Room: Name=Avcilar_Kartli_Gecis_Sistemi
+PCB-ECO: Change Pad Pin/Pkg Length: Old=50.8mm New=0mm

@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [Avcilar_Kartli_Gecis_Sistemi_Panel.PcbDoc]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:25:57 On 23/05/2021

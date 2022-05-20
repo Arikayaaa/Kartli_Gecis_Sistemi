@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SCL Pin=R9-2
+Removed Pin From Net: NetName=SDA Pin=R10-2
+Removed Pin From Net: NetName=SCL Pin=U4-34
+Removed Pin From Net: NetName=SDA Pin=U4-35
+Added Pin To Net: NetName=SDA Pin=R9-2
+Added Pin To Net: NetName=SCL Pin=R10-2
+Added Pin To Net: NetName=SDA Pin=U4-34
+Added Pin To Net: NetName=SCL Pin=U4-35
+Added Member To Class: ClassName=Avcilar_Kartli_Gecis_Sistemi Member=Component LS1 BUZZER 5v
+Added Room: Name=Avcilar_Kartli_Gecis_Sistemi

@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Avcilar_Kartli_Gecis_Sistemi_Panel.PcbDoc   23/05/2021  19:25:05
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Avcilar_Kartli_Gecis_Sistemi_Panel-RoundHoles.TXT
+ASCII SlotHoles File : Avcilar_Kartli_Gecis_Sistemi_Panel-SlotHoles.TXT
+ASCII RectHoles File : Avcilar_Kartli_Gecis_Sistemi_Panel-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             176       PTH        0.00inch (0.00mm)
+T2      30mil (0.75mm)                                            Round             8         PTH        0.00inch (0.00mm)
+T3      32mil (0.8mm)                                             Round             16        PTH        0.00inch (0.00mm)
+T4      39mil (1mm)                                               Round             26        PTH        0.00inch (0.00mm)
+T5      40mil (1.016mm)                                           Round             86        PTH        0.00inch (0.00mm)
+T6      108mil (2.75mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T7      79mil (2mm)                                               Slot              1         NPTH       0.00inch (0.00mm)
+T8      118mil (3mm)                                              Slot              4         NPTH       0.00inch (0.00mm)
+T9      224mil (5.7mm)                                            Rectangle         1         NPTH       0.00inch (0.00mm)
+T10     315mil (8mm)                                              Rectangle         1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              327
+
+Total Processing Time (hh:mm:ss) : 00:00:00

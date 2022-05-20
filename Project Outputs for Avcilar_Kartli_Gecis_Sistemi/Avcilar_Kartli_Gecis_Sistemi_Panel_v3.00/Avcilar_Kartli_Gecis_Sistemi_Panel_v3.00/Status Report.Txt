@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Avcilar_Kartli_Gecis_Sistemi_Panel_v3.00.PcbDoc]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v3.00.TXT]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v3.00.LDP]
+   Generated File[Avcilar_Kartli_Gecis_Sistemi_Panel_v3.00.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 23:12:25 On 07/06/2021

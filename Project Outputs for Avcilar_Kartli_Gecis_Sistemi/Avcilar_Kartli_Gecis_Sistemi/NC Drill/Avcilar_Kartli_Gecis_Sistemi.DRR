@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Avcilar_Kartli_Gecis_Sistemi.PcbDoc   23/05/2021  19:53:11
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Avcilar_Kartli_Gecis_Sistemi.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             88        PTH        0.00inch (0.00mm)
+T2      30mil (0.75mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T3      32mil (0.8mm)                                             Round             8         PTH        0.00inch (0.00mm)
+T4      39mil (1mm)                                               Round             13        PTH        0.00inch (0.00mm)
+T5      40mil (1.016mm)                                           Round             43        PTH        0.00inch (0.00mm)
+T6      108mil (2.75mm)                                           Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              160
+
+Total Processing Time (hh:mm:ss) : 00:00:00
