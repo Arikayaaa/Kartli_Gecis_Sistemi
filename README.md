@@ -11,6 +11,8 @@
 ![2](https://user-images.githubusercontent.com/38187643/174649447-64828b2d-9581-4062-978f-ef31c1235b22.jpg)
 ![3](https://user-images.githubusercontent.com/38187643/174649459-63c25496-c67a-4ada-9ffb-e35b6840fd22.jpg)
 
-Linkten deneme videosuna ulaşabilirsiniz.
+Linkten asansör test videosuna ulaşabilirsiniz.
 https://youtube.com/shorts/khc79wWbCdM?feature=share
 
+Linkten proje kodlarına ulaşabilirsiniz.
+https://github.com/yazarruchan/rfid-lift-control
