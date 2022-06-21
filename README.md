@@ -11,6 +11,6 @@
 ![2](https://user-images.githubusercontent.com/38187643/174649447-64828b2d-9581-4062-978f-ef31c1235b22.jpg)
 ![3](https://user-images.githubusercontent.com/38187643/174649459-63c25496-c67a-4ada-9ffb-e35b6840fd22.jpg)
 
-
-https://user-images.githubusercontent.com/38187643/174649472-1183e510-5d63-48c5-9441-e40f76e7def7.mp4
+Linkten deneme videosuna ulaşabilirsiniz.
+https://youtube.com/shorts/khc79wWbCdM?feature=share
 
